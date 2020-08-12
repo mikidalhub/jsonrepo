@@ -1,14 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "theme":{
+    "secondary": "#8F0CE8",
+    "secondary3": "#00FF48",
+    "positions":{
+        "global": 'column'
+    },
+    "logo": {
+       "spinningType": 'infinite 20s linear',
+        "url": 'https://visuel3d-secure.citroen.com/V3DImage.ashx?client=SOLVCG&ratio=1&format=png&quality=85&width=350&height=100%&back=0&view=001&version=1CW8AFENNKB0A031&color=0MM00NPQ&trim=0P4Y0RFT&opt1=WL2C'
+    }
   }
 }
