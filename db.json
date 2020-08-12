@@ -3,7 +3,7 @@
     "okkerYellow": "#e7bf57",
     "lightYellow": "#FFFF99",
     "primaryLightActive": "#00FF83",
-    "primaryActiveBg": "#478b96",
+    "primaryActiveBg": "#FFA500",
     "primaryActiveBgOpaq": "#ECF8f9",
     "primaryInactiveBg": "#ffffff",
     "primaryTextColor": "#000000",
@@ -36,10 +36,10 @@
     "greyOutline": "#cbd2d9",
     "transparent": "transparent",
     "positions":{
-        "global": "row"
+        "global": "column"
     },
     "logo": {
-        "spinningType": "infinite 2s linear",
+        "spinningType": "infinite 20s linear",
         "url":"https://visuel3d-secure.citroen.com/V3DImage.ashx?client=SOLVCG&ratio=1&format=png&quality=85&width=350&height=100%&back=0&view=001&version=1CB6A5HNMJL0A040&color=0MM00NEU&trim=0P230RFR"
     }
   }
