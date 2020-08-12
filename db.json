@@ -3,7 +3,7 @@
     "okkerYellow": "#e7bf57",
     "lightYellow": "#FFFF99",
     "primaryLightActive": "#00FF83",
-    "primaryActiveBg": "#8F0CE8",
+    "primaryActiveBg": "#478b96",
     "primaryActiveBgOpaq": "#ECF8f9",
     "primaryInactiveBg": "#ffffff",
     "primaryTextColor": "#000000",
@@ -21,7 +21,7 @@
     "grey1": "#43484d",
     "grey2": "#5e6977",
     "grey3": "#86939e",
-    "grey4": "#bdc6cf",
+    "grey4": "#ffffff",
     "grey5": "#e1e8ee",
     "grey6": "#eaeaea",
     "white": "#ffffff",
@@ -39,7 +39,7 @@
         "global": "row"
     },
     "logo": {
-        "spinningType": "infinite 10s linear"
+        "spinningType": "infinite 2s linear"
     }
   }
 }
