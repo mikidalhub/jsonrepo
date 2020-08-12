@@ -14,12 +14,12 @@
   },
   "language":{
     "en":{
-      "main.title": "En-Title",
-      "main.link": "En-Link"
+      "main.title": "Edit <code>src/App.js</code> and save to reload.<br/>Now with {what}!",
+      "main.link": "Learn react"
     },
     "fr":{
-      "main.title": "Fr-Title",
-      "main.link": "Fr-Link"
+      "main.title": "Modifier <code>src/App.js</code> et enregistrer pour recharger .<br/>Maintenant avec {what}!",
+      "main.link": "Apprenez à React"
     }
   }
 }
