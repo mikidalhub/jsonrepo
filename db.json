@@ -1,10 +1,10 @@
 {
   "theme": {   
-    "primaryActiveBg": "#FFA500",
+    "primaryActiveBg": "yellow",
     "primaryActiveBgOpaq": "#ECF8f9",
     "primaryInactiveBg": "#ffffff",
     "positions":{
-        "global": "column"
+        "global": "row"
     },
     "logo": {
         "spinningType": "infinite 7s linear",
