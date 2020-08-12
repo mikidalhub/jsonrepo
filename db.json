@@ -3,7 +3,7 @@
     "okkerYellow": "#e7bf57",
     "lightYellow": "#FFFF99",
     "primaryLightActive": "#00FF83",
-    "primaryActiveBg": "#000000",
+    "primaryActiveBg": "azure",
     "primaryActiveBgOpaq": "#ECF8f9",
     "primaryInactiveBg": "#ffffff",
     "primaryTextColor": "#000000",
