@@ -3,11 +3,11 @@
     "secondary": "#8F0CE8",
     "secondary3": "#00FF48",
     "positions":{
-        "global": 'column'
+        "global": "row"
     },
     "logo": {
-       "spinningType": 'infinite 20s linear',
-        "url": 'https://visuel3d-secure.citroen.com/V3DImage.ashx?client=SOLVCG&ratio=1&format=png&quality=85&width=350&height=100%&back=0&view=001&version=1CW8AFENNKB0A031&color=0MM00NPQ&trim=0P4Y0RFT&opt1=WL2C'
+       "spinningType": "infinite 20s linear",
+        "url": "https://visuel3d-secure.citroen.com/V3DImage.ashx?client=SOLVCG&ratio=1&format=png&quality=85&width=350&height=100%&back=0&view=001&version=1CW8AFENNKB0A031&color=0MM00NPQ&trim=0P4Y0RFT&opt1=WL2C"
     }
   }
 }
