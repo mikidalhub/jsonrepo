@@ -1,6 +1,7 @@
 {
   "theme":{
     "secondary": "#8F0CE8",
+    "primaryActiveBg": "#8F0CE8",
     "secondary3": "#00FF48",
     "positions":{
         "global": "row"
