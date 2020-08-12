@@ -7,7 +7,7 @@
         "global": "column"
     },
     "logo": {
-        "spinningType": "infinite 20s linear",
+        "spinningType": "infinite 7s linear",
         "url":"https://visuel3d-secure.citroen.com/V3DImage.ashx?client=SOLVCG&ratio=1&format=png&quality=85&width=350&height=100%&back=0&view=001&version=1CB6A5HNMJL0A040&color=0MM00NEU&trim=0P230RFR"
     }
   }
