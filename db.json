@@ -34,6 +34,12 @@
     "orange1": "#ffcb6b",
     "azureDark": "#478b96",
     "greyOutline": "#cbd2d9",
-    "transparent": "transparent"
+    "transparent": "transparent",
+    positions:{
+        global: 'column'
+    },
+    logo: {
+        spinningType: 'infinite 20s linear'
+    }
   }
 }
