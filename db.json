@@ -35,11 +35,11 @@
     "azureDark": "#478b96",
     "greyOutline": "#cbd2d9",
     "transparent": "transparent",
-    positions:{
-        global: 'column'
+    "positions":{
+        "global": "column"
     },
-    logo: {
-        spinningType: 'infinite 20s linear'
+    "logo": {
+        "spinningType": "infinite 20s linear"
     }
   }
 }
