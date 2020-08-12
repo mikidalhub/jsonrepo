@@ -3,7 +3,7 @@
     "okkerYellow": "#e7bf57",
     "lightYellow": "#FFFF99",
     "primaryLightActive": "#00FF83",
-    "primaryActiveBg": "#5AC8FA",
+    "primaryActiveBg": "#8F0CE8",
     "primaryActiveBgOpaq": "#ECF8f9",
     "primaryInactiveBg": "#ffffff",
     "primaryTextColor": "#000000",
@@ -39,7 +39,7 @@
         "global": "row"
     },
     "logo": {
-        "spinningType": "infinite 20s linear"
+        "spinningType": "infinite 10s linear"
     }
   }
 }
