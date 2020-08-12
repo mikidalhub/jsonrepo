@@ -36,7 +36,7 @@
     "greyOutline": "#cbd2d9",
     "transparent": "transparent",
     "positions":{
-        "global": "column"
+        "global": "row"
     },
     "logo": {
         "spinningType": "infinite 20s linear"
