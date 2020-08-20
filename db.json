@@ -1,7 +1,7 @@
 {
   "theme":{
-  "okkerYellow": "#e7bf57",
-  "lightYellow": "#FFFF99",
+    "okkerYellow": "#e7bf57",
+    "lightYellow": "#FFFF99",
     "primaryLightActive": "#00FF83",
     "primaryActiveBg": "#33b3a6",
     "primaryActiveBgOpaq": "#ECF8f9",
@@ -45,13 +45,13 @@
   "lang":"fr"
 },
   "language":{
-  "en":{
-    "main.title": "Edit and save to reload. Now with {what}!",
-      "main.link": "Learn react"
-  },
-  "fr":{
-    "main.title": "Modifier et enregistrer pour recharger.Maintenant avec {what}!",
-      "main.link": "Apprenez à React"
+    "en":{
+      "main.title": "Edit and save to reload. Now with {what}!",
+        "main.link": "Learn react"
+    },
+    "fr":{
+      "main.title": "Modifier et enregistrer pour recharger.Maintenant avec {what}!",
+        "main.link": "Apprenez à React"
+    }
   }
-}
 }
