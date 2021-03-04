@@ -53,5 +53,6 @@
          "main.title":"Modifier et enregistrer pour recharger.Maintenant avec {what}!",
          "main.link":"Apprenez à React"
       }
-   }
+   },
+   "autocomplete":[]
 }
