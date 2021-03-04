@@ -1,59 +1,64 @@
 {
-  "theme":{
-    "okkerYellow": "#e7bf57",
-    "lightYellow": "#FFFF99",
-    "primaryLightActive": "#00FF83",
-    "primaryActiveBg": "#33b3a6",
-    "primaryActiveBgOpaq": "#ECF8f9",
-    "primaryInactiveBg": "#ffffff",
-    "primaryTextColor": "#000000",
-    "primarySubTextColor": "#bdc6cf",
-    "primaryGreyedBg": "#f8fbfd",
-    "primaryGradient": "#000000",
-    "mainBg": "#f8fbfd",
-    "mainBgShade": "#d8f1f3",
-    "mainColor": "#cdd8de",
-    "tealBlueBg": "#5AC8FA",
-    "purpleBg": "#5856D6",
-    "secondary": "#8F0CE8",
-    "greenDark": "#00B233",
-    "secondary3": "#00FF48",
-    "grey1": "#43484d",
-    "grey2": "#5e6977",
-    "grey3": "#86939e",
-    "grey4": "#bdc6cf",
-    "grey5": "#e1e8ee",
-    "grey6": "#eaeaea",
-    "white": "#ffffff",
-    "dkGreyBg": "#232323",
-    "dkGrey2Bg": "rgba(47,44,60,1)",
-    "redBg": "#F5554D",
-    "red2Bg": "#B46486",
-    "red3Bg": "#FFCFCF",
-    "orange": "#FF9500",
-    "orange1": "#ffcb6b",
-    "azureDark": "#478b9",
-    "greyOutline": "#cbd2d9",
-    "transparent": "transparent",
-    "positions":{
-    "global": "row"
-  },
-  "logo": {
-    "spinningType": "infinite 5s linear",
-      "url": "https://visuel3d-secure.citroen.com/V3DImage.ashx?client=SOLVCG&ratio=1&format=png&quality=85&width=350&height=100%&back=0&view=001&version=1CH5CLNNPKB0A0E2&color=0MP00NWP&trim=0P8L0RFT&opt1=WL5A&opt2=YR07"
-  },
-  "lang":"fr"
-},
-  "language":{
-    "en":{
-      "main.title": "Edit and save to reload. Now with {what}!",
-        "main.link": "Learn react"
-    },
-    "fr":{
-      "main.title": "Modifier et enregistrer pour recharger.Maintenant avec {what}!",
-        "main.link": "Apprenez à React"
-    }
-  },
-  "autocomplete":["zoption", "aoption", "koption", "dfoption", "zsoption"]
-  }
+   "theme":{
+      "okkerYellow":"#e7bf57",
+      "lightYellow":"#FFFF99",
+      "primaryLightActive":"#00FF83",
+      "primaryActiveBg":"#33b3a6",
+      "primaryActiveBgOpaq":"#ECF8f9",
+      "primaryInactiveBg":"#ffffff",
+      "primaryTextColor":"#000000",
+      "primarySubTextColor":"#bdc6cf",
+      "primaryGreyedBg":"#f8fbfd",
+      "primaryGradient":"#000000",
+      "mainBg":"#f8fbfd",
+      "mainBgShade":"#d8f1f3",
+      "mainColor":"#cdd8de",
+      "tealBlueBg":"#5AC8FA",
+      "purpleBg":"#5856D6",
+      "secondary":"#8F0CE8",
+      "greenDark":"#00B233",
+      "secondary3":"#00FF48",
+      "grey1":"#43484d",
+      "grey2":"#5e6977",
+      "grey3":"#86939e",
+      "grey4":"#bdc6cf",
+      "grey5":"#e1e8ee",
+      "grey6":"#eaeaea",
+      "white":"#ffffff",
+      "dkGreyBg":"#232323",
+      "dkGrey2Bg":"rgba(47,44,60,1)",
+      "redBg":"#F5554D",
+      "red2Bg":"#B46486",
+      "red3Bg":"#FFCFCF",
+      "orange":"#FF9500",
+      "orange1":"#ffcb6b",
+      "azureDark":"#478b9",
+      "greyOutline":"#cbd2d9",
+      "transparent":"transparent",
+      "positions":{
+         "global":"row"
+      },
+      "logo":{
+         "spinningType":"infinite 5s linear",
+         "url":"https://visuel3d-secure.citroen.com/V3DImage.ashx?client=SOLVCG&ratio=1&format=png&quality=85&width=350&height=100%&back=0&view=001&version=1CH5CLNNPKB0A0E2&color=0MP00NWP&trim=0P8L0RFT&opt1=WL5A&opt2=YR07"
+      },
+      "lang":"fr"
+   },
+   "language":{
+      "en":{
+         "main.title":"Edit and save to reload. Now with {what}!",
+         "main.link":"Learn react"
+      },
+      "fr":{
+         "main.title":"Modifier et enregistrer pour recharger.Maintenant avec {what}!",
+         "main.link":"Apprenez à React"
+      }
+   },
+   "autocomplete":[
+      "zoption",
+      "aoption",
+      "koption",
+      "dfoption",
+      "zsoption"
+   ]
 }
