@@ -54,5 +54,11 @@
          "main.link":"Apprenez à React"
       }
    },
-   "autocomplete":[]
+   "autocomplete":[
+      "zoption",
+      "aoption",
+      "koption",
+      "dfoption",
+      "zsoption"
+   ]
 }
