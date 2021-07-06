@@ -146,6 +146,38 @@
             "selected": false
           }
         ]
+    },
+    "summaryCards": {
+      "totalEnquiries": {
+        "label": "Total enquiries",
+        "total": 2313,
+        "active": true,
+        "type": "enquiry"
+      },
+      "brochureDownloads": {
+        "label": "Brochure downloads",
+        "total": 47185,
+        "active": false,
+        "type": "brochure"
+      },
+      "advertViews": {
+        "label": "Advert views",
+        "total": 94235,
+        "active": false,
+        "type": "advert"
+      },
+      "searchAppearance": {
+        "label": "Searches appeared in",
+        "total": 450092,
+        "active": false,
+        "type": "searches"
+      },
+      "availableProperties": {
+        "label": "Available properties",
+        "total": 81395,
+        "active": false,
+        "type": "availableProp"
+      }
     }
   }
 }
