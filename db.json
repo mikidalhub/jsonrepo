@@ -97,18 +97,38 @@
       ],
       "properties": [
         {
-          "value": "property-1",
-          "viewValue": "Property type 1",
+          "value": "industrial",
+          "viewValue": "Industrial",
           "selected": false
         },
         {
-          "value": "property-2",
-          "viewValue": "Property type 2",
+          "value": "retail",
+          "viewValue": "Retail",
           "selected": true
         },
         {
-          "value": "property-3",
-          "viewValue": "Property type 3",
+          "value": "licensedleisure",
+          "viewValue": "Licensed & Leisure",
+          "selected": false
+        },
+        {
+          "value": "offices",
+          "viewValue": "Offices",
+          "selected": false
+        },
+        {
+          "value": "commercial",
+          "viewValue": "Commercial land",
+          "selected": false
+        },
+        {
+          "value": "residential",
+          "viewValue": "Residential",
+          "selected": false
+        },
+        {
+          "value": "others",
+          "viewValue": "Others",
           "selected": false
         }
       ],
@@ -331,6 +351,25 @@
         "pointRadius": 4,
         "pointBorderColor": "#F60142"
       }
+    ]
+  },
+  "stackedChartData": {
+    "chartOptions": {
+      "scales": {
+        "xAxes": [{ "stacked": true }],
+        "yAxes": [{ "stacked": true }]
+      },
+      "maintainAspectRatio": false
+    },
+    "chartLabels": ["2006", "2007", "2008", "2009", "2010", "2011", "2012"],
+    "chartType": "horizontalBar",
+    "chartLegend": true,
+    "chartPlugins": [],
+    "chartData": [
+      { "data": [65, 59, 90, 81, 56, 55, 40], "label": "Series A" },
+      { "data": [28, 48, 40, 19, 96, 27, 100], "label": "Series B" },
+      { "data": [58, 18, 23, 29, 45, 67, 100], "label": "Series C" },
+      { "data": [28, 78, 20, 49, 56, 23, 65], "label": "Series D" }
     ]
   }
 }
