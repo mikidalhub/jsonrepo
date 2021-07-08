@@ -55,43 +55,18 @@
     "filters": {
       "tenures": [
         {
-          "value": "tenure-1",
-          "viewValue": "Tenure 1",
+          "value": "to let",
+          "viewValue": "To let",
           "selected": false
         },
         {
-          "value": "tenure-2",
-          "viewValue": "Tenure 2",
+          "value": "assignment",
+          "viewValue": "Assignment",
           "selected": false
         },
         {
-          "value": "tenure-3",
-          "viewValue": "Tenure 3",
-          "selected": false
-        },
-        {
-          "value": "tenure-4",
-          "viewValue": "Tenure 4",
-          "selected": false
-        },
-        {
-          "value": "tenure-5",
-          "viewValue": "Tenure 5",
-          "selected": false
-        },
-        {
-          "value": "tenure-6",
-          "viewValue": "Tenure 6",
-          "selected": false
-        },
-        {
-          "value": "tenure-7",
-          "viewValue": "Tenure 7",
-          "selected": true
-        },
-        {
-          "value": "tenure-8",
-          "viewValue": "Tenure 8",
+          "value": "under offer",
+          "viewValue": "Under offer",
           "selected": false
         }
       ],
@@ -107,7 +82,7 @@
           "selected": true
         },
         {
-          "value": "licensedleisure",
+          "value": "licensed & leisure",
           "viewValue": "Licensed & Leisure",
           "selected": false
         },
@@ -151,18 +126,18 @@
       ],
       "agents": [
         {
-          "value": "agent-0",
-          "viewValue": "Agent type 1",
+          "value": "Tim Sterling",
+          "viewValue": "Tim Sterling",
           "selected": true
         },
         {
-          "value": "agent-1",
-          "viewValue": "Agent type 2",
+          "value": "John Doe",
+          "viewValue": "John Doe",
           "selected": false
         },
         {
-          "value": "agent-2",
-          "viewValue": "Agent type 3",
+          "value": "Caroline Stone",
+          "viewValue": "Caroline Stone",
           "selected": false
         }
       ]
