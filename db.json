@@ -55,7 +55,7 @@
     "filters": {
       "tenures": [
         {
-          "value": "to let",
+          "value": "tolet",
           "viewValue": "To let",
           "selected": false
         },
@@ -65,7 +65,7 @@
           "selected": false
         },
         {
-          "value": "under offer",
+          "value": "underoffer",
           "viewValue": "Under offer",
           "selected": false
         }
@@ -82,7 +82,7 @@
           "selected": true
         },
         {
-          "value": "licensed & leisure",
+          "value": "licensedleisure",
           "viewValue": "Licensed & Leisure",
           "selected": false
         },
@@ -126,17 +126,17 @@
       ],
       "agents": [
         {
-          "value": "Tim Sterling",
+          "value": "timsterling",
           "viewValue": "Tim Sterling",
           "selected": true
         },
         {
-          "value": "John Doe",
+          "value": "johndoe",
           "viewValue": "John Doe",
           "selected": false
         },
         {
-          "value": "Caroline Stone",
+          "value": "carolinestone",
           "viewValue": "Caroline Stone",
           "selected": false
         }
