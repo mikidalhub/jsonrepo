@@ -95,28 +95,6 @@
       "advertViews": 113,
       "searchAppearedIn": 27,
       "dateFirstListed": "12/11/2020"
-    },
-    {
-      "propertyAddress": "Park palace, Leeds",
-      "featured": true,
-      "totalEnquiries": 93,
-      "emailEnquiries": 74,
-      "phoneEnquires": 55,
-      "brochureDownloads": 45,
-      "advertViews": 173,
-      "searchAppearedIn": 87,
-      "dateFirstListed": "24/04/2021"
-    },
-    {
-      "propertyAddress": "High Holborn, London",
-      "featured": true,
-      "totalEnquiries": 66,
-      "emailEnquiries": 63,
-      "phoneEnquires": 63,
-      "brochureDownloads": 52,
-      "advertViews": 38,
-      "searchAppearedIn": 19,
-      "dateFirstListed": "12/05/2021"
     }
   ],
   "dashboard": {
