@@ -51,52 +51,6 @@
       "dfoption",
       "zsoption"
    ],
-  "recentlyUploaded":[
-    {
-      "propertyAddress": "Edward street, Birmingham",
-      "featured": true,
-      "totalEnquiries": 50,
-      "emailEnquiries": 54,
-      "phoneEnquires": 30,
-      "brochureDownloads": 45,
-      "advertViews": 123,
-      "searchAppearedIn": 67,
-      "dateFirstListed": "17/12/2020"
-    },
-    {
-      "propertyAddress": "Industrial estate 306",
-      "featured": true,
-      "totalEnquiries": 53,
-      "emailEnquiries": 34,
-      "phoneEnquires": 35,
-      "brochureDownloads": 25,
-      "advertViews": 163,
-      "searchAppearedIn": 57,
-      "dateFirstListed": "10/09/2020"
-    },
-    {
-      "propertyAddress": "City business park",
-      "featured": true,
-      "totalEnquiries": 86,
-      "emailEnquiries": 73,
-      "phoneEnquires": 43,
-      "brochureDownloads": 52,
-      "advertViews": 98,
-      "searchAppearedIn": 12,
-      "dateFirstListed": "13/03/2021"
-    },
-    {
-      "propertyAddress": "Carter Lane, London",
-      "featured": true,
-      "totalEnquiries": 40,
-      "emailEnquiries": 59,
-      "phoneEnquires": 40,
-      "brochureDownloads": 46,
-      "advertViews": 113,
-      "searchAppearedIn": 27,
-      "dateFirstListed": "12/11/2020"
-    }
-  ],
   "dashboard": {
     "filters": {
       "tenures": [
