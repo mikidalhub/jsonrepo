@@ -45,11 +45,15 @@
       "lang":"fr"
    },
    "autocomplete":[
-      "zoption",
-      "aoption",
-      "koption",
-      "dfoption",
-      "zsoption"
+      "Brighton",
+      "Bridgend",
+      "Cambridge",
+      "Canterbury",
+      "London",
+      "Leeds",
+      "Manchester",
+      "Wells",
+      "York"
    ],
   "dashboard": {
     "filters": {
