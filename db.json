@@ -283,52 +283,22 @@
       }
     ],
     "lineChart": {
-      "chartOptions": {
-        "responsive": true,
-        "maintainAspectRatio": false,
-        "legend": {
-          "position": "bottom",
-          "labels": {
-            "usePointStyle": true,
-            "fontSize": 13,
-            "padding": 15
-          }
+      "dataSet": [
+        {
+          "data": [ 25, 78, 25, 121, 90],
+          "label": "Last 30 days"
+        },
+        {
+          "data": [5, 58, 5, 85, 130],
+          "label": "Previous period"
         }
-      },
+      ],
       "chartLabels": [
         "",
         "31 October 20",
         "7 November 20",
         "14 November 20",
         "21 November 20"
-      ],
-      "chartType": "line",
-      "chartLegend": true,
-      "chartPlugins": [
-      ],
-      "chartData": [
-        {
-          "data": [ 25, 78, 25, 121, 90],
-          "label": "Last 30 days",
-          "lineTension": 0,
-          "backgroundColor": "transparent",
-          "borderColor": "#000000",
-          "pointBackgroundColor": "#000000",
-          "pointStyle": "circle",
-          "pointRadius": 4,
-          "pointBorderColor": "#000000"
-        },
-        {
-          "data": [5, 58, 5, 85, 130],
-          "label": "Previous period",
-          "lineTension": 0,
-          "backgroundColor": "transparent",
-          "borderColor": "#F60142",
-          "pointBackgroundColor": "#F60142",
-          "pointStyle": "circle",
-          "pointRadius": 4,
-          "pointBorderColor": "#F60142"
-        }
       ]
     },
     "stackedChartData": {
