@@ -301,22 +301,7 @@
         "21 November 20"
       ]
     },
-    "stackedChartData": {
-      "chartOptions": {
-        "scales": {
-          "xAxes": [{ "stacked": true }],
-          "yAxes": [{ "stacked": true }]
-        },
-        "maintainAspectRatio": false,
-        "legend": {
-          "position": "bottom",
-          "labels": {
-            "usePointStyle": true,
-            "fontSize": 10,
-            "padding": 10
-          }
-        }
-      },
+    "stackedChart": {
       "chartLabels": [
         "Sector industrial",
         "Retail",
@@ -326,14 +311,11 @@
         "Residential",
         "Others"
       ],
-      "chartType": "horizontalBar",
-      "chartLegend": true,
-      "chartPlugins": [],
       "chartData": [
-        { "data": [250, 300, 400, 180, 350, 450, 100], "label": "1 -500 sq ft", "backgroundColor": "#543D27", "hoverBackgroundColor":"#543D27" },
-        { "data": [370, 290, 250, 600, 320, 170, 480], "label": "501 - 1000 sq ft", "backgroundColor": "#DB254F", "hoverBackgroundColor":"#DB254F" },
-        { "data": [100, 250, 450, 550, 450, 550, 150], "label": "1001 - 2000 sq ft", "backgroundColor": "#811B7C", "hoverBackgroundColor":"#811B7C" },
-        { "data": [340, 100, 400, 600, 250, 250, 300], "label": "2000+ sq ft", "backgroundColor": "#308CAA", "hoverBackgroundColor":"#308CAA" }
+        { "data": [250, 300, 400, 180, 350, 450, 100], "id": "sid-1"},
+        { "data": [370, 290, 250, 600, 320, 170, 480], "id": "sid-2"},
+        { "data": [100, 250, 450, 550, 450, 550, 150], "id": "sid-3"},
+        { "data": [340, 100, 400, 600, 250, 250, 300], "id": "sid-4"}
       ]
     }
   }
