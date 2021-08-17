@@ -78,37 +78,44 @@
         {
           "value": "industrial",
           "viewValue": "Industrial",
-          "selected": false
+          "selected": false,
+          "icon": "local_shipping"
         },
         {
           "value": "retail",
           "viewValue": "Retail",
-          "selected": true
+          "selected": true,
+          "icon": "shopping_cart"
         },
         {
           "value": "licensed & leisure",
           "viewValue": "Licensed & Leisure",
-          "selected": false
+          "selected": false,
+          "icon": "business_center"
         },
         {
           "value": "offices",
           "viewValue": "Offices",
-          "selected": false
+          "selected": false,
+          "icon": "business_center"
         },
         {
           "value": "commercial",
           "viewValue": "Commercial land",
-          "selected": false
+          "selected": false,
+          "icon": "airport_shuttle"
         },
         {
           "value": "residential",
           "viewValue": "Residential",
-          "selected": false
+          "selected": false,
+          "icon": "business_center"
         },
         {
           "value": "others",
           "viewValue": "Others",
-          "selected": false
+          "selected": false,
+          "icon": "business"
         }
       ],
       "branches": [
